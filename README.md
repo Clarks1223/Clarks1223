@@ -9,8 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
-
- 🏫 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
  
  🧑‍🎓 I’m currently learning Software Develop.
  
