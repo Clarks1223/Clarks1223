@@ -18,7 +18,7 @@
 
  📫 Reach out to me: **[gustavouchuarii@gmail.com](gustavouchuari@gmail.com)**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/17twV3kAEtrKCEonLpZ8ydV-WdinjMxfB/view?usp=sharing)
+ ✍ You can find my resume [here](https://drive.google.com/file/d/1uEr03aa9CIF5Ku2KGXLgjMdJyPBwrSpM/view?usp=sharing)
  
 🧑‍💻 I love using Software as a solution for every Problem.
 
