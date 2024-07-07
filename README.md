@@ -10,11 +10,9 @@
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
  
- 🧑‍🎓 I’m currently learning Software Develop.
- 
- 🌱 I’m currently learning **React.js**
- 
- 💬 Ask me about **Node.js, MongoDB, MySQL**
+🎓 Graduated in Software Development from Escuela Politécnica Nacional.
+
+ 🌱 Focused on mastering **BackEnd Technologies**.
 
  📫 Reach out to me: **[gustavouchuarii@gmail.com](gustavouchuari@gmail.com)**
 
@@ -24,7 +22,7 @@
 
 🤓 Always learning new things.
 
-🤔 I’m currently open for a new job opportunity.
+🤝 I’m currently open for a new job opportunity..
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
